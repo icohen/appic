@@ -23,6 +23,6 @@ Scrapes the first page of some [appic search results](http://www.appic.org/direc
   
 
 # Todo
-- scrapes more than the first page of results
+- scrape more than the first page of results
 - scrape the remainder of each program page
   - *Training Opportunities* and below
